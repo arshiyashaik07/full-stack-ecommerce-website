@@ -1,6 +1,6 @@
 # Full Stack E-Commerce Website
 
-A full-stack e-commerce web application built using HTML, CSS, JavaScript, PHP, MySQL, API's
+A full-stack e-commerce web application built using HTML, CSS, JavaScript, PHP, MySQL, and APIs.
 
 ## Features
 
@@ -22,7 +22,6 @@ A full-stack e-commerce web application built using HTML, CSS, JavaScript, PHP, 
 - JavaScript
 - PHP
 - MySQL
-- FastAPI
 - XAMPP
 
 ## Project Folder Structure
@@ -38,7 +37,15 @@ A full-stack e-commerce web application built using HTML, CSS, JavaScript, PHP, 
 
 1. Install XAMPP.
 2. Start Apache and MySQL.
-3. Place the project folder inside:
+3. Copy the project folder into:
 
-```text
-C:\xampp\htdocs\
+C:\xampp\htdocs\ecommerce
+
+4. Import the database in phpMyAdmin.
+5. Open the project in browser:
+
+http://localhost/ecommerce/
+
+## Author
+
+Arshiya Shaik
