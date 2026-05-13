@@ -1,6 +1,6 @@
 # Full Stack E-Commerce Website
 
-A full-stack e-commerce web application built using HTML, CSS, JavaScript, PHP, MySQL, and APIs.
+A full-stack e-commerce web application built using HTML, CSS, JavaScript, PHP, MySQL
 
 ## Features
 
