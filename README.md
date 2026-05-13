@@ -46,6 +46,43 @@ C:\xampp\htdocs\ecommerce
 
 http://localhost/ecommerce/
 
+## Screenshot
+
+## Project Screenshots
+
+### 1. Home Page
+![Home Page](screenshot/01-home-page.png)
+
+### 2. Register Page
+![Register Page](screenshot/02-register-page.png)
+
+### 3. Login Page
+![Login Page](screenshot/03-login-page.png)
+
+### 4. User Home Page
+![User Home Page](screenshot/04-user-home-page.png)
+
+### 5. Cart Page
+![Cart Page](screenshot/05-cart-page.png)
+
+### 6. Checkout Page
+![Checkout Page](screenshot/06-checkout-page.png)
+
+### 7. Order Success Page
+![Order Success Page](screenshot/07-order-success-page.png)
+
+### 8. Admin Login Page
+![Admin Login Page](screenshot/08-admin-login.png)
+
+### 9. Admin Dashboard
+![Admin Dashboard](screenshot/09-admin-dashboard.png)
+
+### 10. Manage Products Page
+![Manage Products Page](screenshot/10-product-manage.png)
+
+### 11. Add Product Page
+![Add Product Page](screenshot/11-add-product.png)
+
 ## Author
 
 Arshiya Shaik
